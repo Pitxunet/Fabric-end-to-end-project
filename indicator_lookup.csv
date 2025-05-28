@@ -1,0 +1,9 @@
+INDICATOR,INDICATOR_LABEL
+WB_SE4ALL_EG_ACS_ELEC,Access to electricity (% of population)
+WB_SE4ALL_EG_EGEN_RNEW,Installed renewable electricity-generating capacity (watts per capita)
+WB_SE4ALL_EG_EGY_CLEAN,Access to clean fuels and technologies for cooking  (% of population)
+WB_SE4ALL_EG_FCON_RNEW,Final consumption of renewable energy (PJ)
+WB_SE4ALL_EG_FEC_RNEW,Share in total final energy consumption (%)
+WB_SE4ALL_EG_FEC_TOT,Total final energy consumption (PJ)
+WB_SE4ALL_EG_INFLW_IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)"
+WB_SE4ALL_EG_INT_LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)

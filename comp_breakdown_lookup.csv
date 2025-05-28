@@ -1,0 +1,15 @@
+COMP_BREAKDOWN_1,COMP_BREAKDOWN_1_LABEL
+_Z,Not Applicable
+WB_SE4ALL_RENEWSRC_ALLRENEW,Renewable Source: All renewables
+WB_SE4ALL_RENEWSRC_BIOENRGY,Renewable Source: Bioenergy
+WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,Renewable Source: Geothermal energy
+WB_SE4ALL_RENEWSRC_HYDPWR,Renewable Source: Hydropower
+WB_SE4ALL_RENEWSRC_MRERGY,Renewable Source: Marine energy
+WB_SE4ALL_RENEWSRC_SLRERGY,Renewable Source: Solar energy
+WB_SE4ALL_RENEWSRC_WNDERGY,Renewable Source: Wind energy
+WB_SE4ALL_TYPE_HEATRSNG,Type: Heat raising
+WB_SE4ALL_TYPE_TRNSPRT,Type: Transport
+WB_SE4ALL_TYPE_ELEC_CONSP,Type: Electricity consumption
+WB_SE4ALL_TYPE_RENEWBLS,Type: Renewables
+WB_SE4ALL_TYPE_MDRNRENWBLS,Type: Modern renewables
+WB_SE4ALL_RENEWSRC_MLTREWBLS,Renewable Source: Multiple renewables
