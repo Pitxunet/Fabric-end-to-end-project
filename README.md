@@ -47,6 +47,6 @@ Semantic model UI has limited formatting compared to Power BI Desktop.
 
 🌐 [World Bank Data360 SE4ALL API](https://data360.worldbank.org/en/api?datasetid=WB_SE4ALL)
 
-📘 Read the full project walkthrough — 
+📘 [Read the full project walkthrough](https://pitxunet.github.io/2025/05/28/Fabric-End-to-End-project.html)
 
 📈 [Live Power BI report](https://app.powerbi.com/reportEmbed?reportId=6c093c51-38d0-45bc-a5cf-ada257a7f33b&autoAuth=true&ctid=e5d15069-41a2-48be-a3f3-d7f52db16425)
